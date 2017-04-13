@@ -1,0 +1,114 @@
+.register-bd{
+	height: 470px;
+	padding:100px 0;
+}
+.register-bd-left>span{
+	display: block;
+    padding: 0 0 10px 80px;
+    color: #229ca0;
+    font-size: 19px;
+}
+.register-bd-left>p{
+	padding: 0 0 15px 80px;
+	color:#666;
+}
+.register-bd-left>form{
+	margin-left: 52px;
+}
+.login_nbtn{
+	display: block;
+    width: 102px;
+    height: 43px;
+    float: left;
+    border: 0;
+    background: url(../img/0403_zhuce_zc.gif) no-repeat 0 5px;
+
+}
+.sex{
+	padding-left: 6px;
+}
+#zc_name{
+	text-align: right;
+}
+table td{
+	height: 29px;
+	line-height: 30px;
+	padding: 8px 0;
+	color:#666;
+}
+#btn_zc{
+	width: 212px;
+	height: 20px;
+	padding:4px 0 0 6px;
+	margin-left:8px;
+}
+#btn_zc2{
+	width: 116px;
+	height: 14px;
+	padding:4px 1px 6px;
+	margin-bottom: -5px;
+}
+#yanzheng{
+	padding-left: 6px;
+}
+#yanzheng img{
+	margin-left: 15px;
+	vertical-align: top;
+}
+table td label{
+	margin-left:12px;
+	color:#999;
+}
+.xieyi span{
+	color: #229ca0;
+}
+.register-bd-right{
+	width: 292px;
+	background-color: #f5f6f1;
+	margin-right:110px;
+}
+.zhanghao>h3{
+	padding:20px 0 12px;
+	width: 292px;
+	font-size:14px;
+	font-weight: normal;
+	border-bottom:1px solid #fff;
+	color:#4a4a4a;
+	text-align:center;
+}
+.zhanghao>h3>a{
+	display: block;
+	margin-top:5px;
+}
+.kszc{
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.kszc>span{
+	padding-bottom:10px;
+	display: block;
+	font-size:14px;
+	font-weight: normal;
+	text-align: center;
+	color:#666;
+}
+.kszc-pic{
+	width: 187px;
+	margin: -15px auto 0;
+}
+.kszc-pic>a{
+	float:left;
+	width: 91px;
+	height: 35px;
+	margin-top: 5px;
+}
+.kszc-pic>a:nth-of-type(odd){
+	margin-right: 5px;
+}
+.renrenwang{
+	width: 91px;
+	height: 35px;
+	display: block;
+	margin-top:5px;
+	margin-left:100px;
+}
